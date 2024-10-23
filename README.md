@@ -1,1 +1,1 @@
-# tmall
+# tmall auction solidity contract
